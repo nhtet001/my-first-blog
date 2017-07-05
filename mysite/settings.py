@@ -25,7 +25,7 @@ SECRET_KEY = 'w386vbt2ofi=2nmqp*a%*#rrlo!p6(al02kguj2-k)i6%_k=m!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1:8000', 'nhtet001.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nhtet001.pythonanywhere.com']
 
 
 # Application definition
